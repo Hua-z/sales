@@ -1,0 +1,8 @@
+com\briup\app\estore\bean\Orderline.class
+com\briup\app\estore\bean\Book.class
+com\briup\app\estore\mapper\CustomerMapper.class
+com\briup\app\estore\mapper\BookMapper.class
+com\briup\app\estore\mapper\OrderMapper.class
+com\briup\app\estore\bean\Order.class
+com\briup\app\estore\bean\Customer.class
+com\briup\app\estore\mapper\OrderlineMapper.class
